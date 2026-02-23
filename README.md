@@ -1,0 +1,5 @@
+# ghrel API
+
+## License
+
+MIT
